@@ -5,7 +5,6 @@ from datetime import datetime
 from tkinter import ttk, messagebox
 
 FISIER_PROGRAMARI = "programari.json"
-
 ORE_DISPONIBILE = [
     "08:00", "08:30", "09:00", "09:30",
     "10:00", "10:30", "11:00", "11:30",
